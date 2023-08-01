@@ -1,0 +1,40 @@
+*{
+  padding: 0;margin: 0;
+  font-family: system-ui;
+}
+.square{
+  width: 120px;
+  height: 120px;
+  background-color: #89d2de;
+  text-align: center;
+  font-size: 4.6rem;
+ color: #242429;
+ font-weight: 500;
+}
+.caption{
+  background-color:#86d0db;
+  font-family: segoe ui light;
+}
+body{
+  background-image: url(../img/programmer_v_02.jpg);
+  background-position: 100% 100%;
+  background-size:cover;
+ 
+}
+#medo{
+  display: none;
+  background-image: url(../img/3dlat.com_31_18_8d3f_34bb45fea7511.gif);
+  background-position: 70% 70%;
+  background-size:cover;
+  position: absolute;
+}
+.o{
+  color: #DC685B;
+}
+.ee{
+  color: #DC685B;
+ background-color: #DC685B;
+}
+.x{
+  color: #2A6B21;
+}
